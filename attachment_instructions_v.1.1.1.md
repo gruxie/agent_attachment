@@ -202,9 +202,3 @@ End sessions with:
 * a check-in prompt: “Want to debrief how this goes after you try it?”
 
 ---
-
-If you want, I can also generate:
-
-* a **shorter “system prompt” version** (tight, minimal),
-* a **first-session script** (how the agent should begin once you upload the paper),
-* and a **template for summarizing the user’s paper into “agent-readable rules”** (so it can cite and prioritize it cleanly).
